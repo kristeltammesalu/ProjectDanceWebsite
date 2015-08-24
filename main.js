@@ -13,8 +13,3 @@ $(window).scroll(function() {
 $(document).ready(function(){
     $(".parallax").parallax();
 });
-
-var options = [
-    {selector: '.staggered-test', offset: 100, callback: 'Materialize.showStaggeredList(".staggered-test")' }
-];
-Materialize.scrollFire(options);
