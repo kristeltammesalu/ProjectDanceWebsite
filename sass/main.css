@@ -264,8 +264,11 @@ nav.sticky {
 #slide-4 .bcg {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/dance17.png"); }
 
-.teacher-pic {
-  width: 250px;
-  height: 100%; }
+.teacher-info {
+  padding-top: 40px;
+  padding-bottom: 50px; }
+  .teacher-info .teacher-pic {
+    width: 250px;
+    height: 100%; }
 
 /*# sourceMappingURL=main.css.map */

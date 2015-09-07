@@ -383,10 +383,15 @@ nav.sticky {
   url("../img/dance17.png");
 }
 
-.teacher-pic {
-  width: 250px;
-  height: 100%
-}
 
+
+.teacher-info {
+  padding-top: 40px;
+  padding-bottom: 50px;
+  .teacher-pic {
+    width: 250px;
+    height: 100%
+  }
+}
 
 
